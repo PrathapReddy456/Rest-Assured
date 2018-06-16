@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8594" started-at="2018-05-22T16:55:31Z" finished-at="2018-05-22T16:55:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8594" started-at="2018-05-22T16:55:31Z" finished-at="2018-05-22T16:55:40Z">
+      <class name="RestassuredProject.RestassuredProject.POST">
+        <test-method status="PASS" signature="post1()[pri:0, instance:RestassuredProject.RestassuredProject.POST@61832929]" name="post1" duration-ms="8366" started-at="2018-05-22T16:55:31Z" finished-at="2018-05-22T16:55:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- post1 -->
+      </class> <!-- RestassuredProject.RestassuredProject.POST -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
